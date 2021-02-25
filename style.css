@@ -1,0 +1,16 @@
+
+.progress-label {
+    float: left;
+    margin-right: 1em;
+  }
+  .checkmark-active {
+    color: green;
+  }
+  .checkmark {
+    color: gray;
+  }
+
+.del {
+      color: gray;
+  }
+    
